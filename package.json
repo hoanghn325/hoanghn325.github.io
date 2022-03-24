@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href=/test-github-page.io/",
+    "build": "ng build --base-href=/demo-pages/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "deploy:github": "ng deploy --base-href=https://hoanghn325.github.io/test-github-page.io/ --name=hoanghn325 --email=hoangmeo350@gmail.com"
